@@ -1,5 +1,5 @@
-# 0-1knapsack-problem
-0/1 knapsack problem solver with GENETIC ALGORITHM 
+# 0-1knapsack-problem solver with GENETIC ALGORITHM
+
 input : 
 1. max weight of knapsack
 2. the product counts
