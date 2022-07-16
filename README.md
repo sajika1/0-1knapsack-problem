@@ -7,6 +7,8 @@ input :
 4. product price(or value) (for example : 32 543 124 543 214)
 
 output : 
+
 array includes : 
+
       1. an 0/1 array -> 0: not selected and 1: selected (for example : 0 1 1 0 0) 
       2. The highest wrist percentage (by default we always search for 100% match)
