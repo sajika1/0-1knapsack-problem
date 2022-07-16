@@ -1,10 +1,11 @@
 # 0-1knapsack-problem solver with GENETIC ALGORITHM
 
 input : 
-1. max weight of knapsack
-2. the product counts
-3. product weights (for example : 43 54 76 34 21)
-4. product price(or value) (for example : 32 543 124 543 214)
+
+      1. max weight of knapsack
+      2. the product counts
+      3. product weights (for example : 43 54 76 34 21)
+      4. product price(or value) (for example : 32 543 124 543 214)
 
 output : 
 
